@@ -7,3 +7,4 @@ Simon says er leikur sem þjálfar skammtímaminnið þitt. Það eru fjórir ta
 <img src="https://user-images.githubusercontent.com/129166867/230742644-8afc662e-368e-4b90-9435-e7cbaafd2e09.jpg" width="50%" height="50%">
 <img src="https://user-images.githubusercontent.com/129166867/230742645-59b9edc4-fdd1-4262-a4af-aa0ead723e8b.jpg" width="50%" height="50%">
 
+[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")
