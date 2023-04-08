@@ -1,6 +1,3 @@
-# SimonSays
-elo
-## undir
-### önnur
+# SimonSays - Matthías Hrafn
+Simon says er leikur sem þjálfar skammtímaminnið þitt. Það eru fjórir takkar sem þú þarft að muna í hvaða röð þú átt að ýta á þá.
 
-![](./Rag%C3%BAel%20%C3%AD%20sj%C3%B3.png)
