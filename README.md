@@ -1,7 +1,7 @@
 # SimonSays - Matthías Hrafn
 Simon says er leikur sem þjálfar skammtímaminnið þitt. Það eru fjórir takkar sem þú þarft að muna í hvaða röð þú átt að ýta á þá.
 # Myndband
-[<img src="https://user-images.githubusercontent.com/129166867/230742768-36397794-8c84-49b4-afb8-9136aff76e7c.jpg" width="50%">](https://www.youtube.com/watch?v=hILH0eap8xk)
+[<img src="https://user-images.githubusercontent.com/129166867/230742768-36397794-8c84-49b4-afb8-9136aff76e7c.jpg" width="50%">](https://youtube.com/shorts/TIAmYI18pQ8)
 
 # Myndir
 <img src="https://user-images.githubusercontent.com/129166867/230742602-27acbcbf-a673-451b-b76f-8873455cec20.jpg" width="50%" height="50%">
